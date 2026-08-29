@@ -1,0 +1,5 @@
+1. Actores del Sistema
+•Técnico de Seguimiento de DDE / Distrital: Registra postulantes/docentes con cédula de identidad, valida la documentación del RDA (Registro Docente Administrativo) e ingresa solicitudes de designación, reordenamientos asignación de horas y permutas.
+•Supervisor de UGPSEP / Escalafón: Revisa, aprueba o rechaza la verificación del RDA y la designación de ítems para habilitar legalmente al docente en el sistema.
+•Beneficiario (Docente / Administrativo SEP): Consulta el estado de sus trámites, descarga boletas de pago, revisa la asignación de su ítem y recibe notificaciones de abonado de sueldo.
+•Proceso Automático de Cierre de Planilla: Procesa masivamente al final de cada período (pico de fin de mes) la liquidación de haberes, descuentos y generación de la Planilla General.
