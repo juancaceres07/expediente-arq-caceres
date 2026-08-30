@@ -1,0 +1,8 @@
+Atributos de Calidad Críticos
+Eficiencia en el Rendimiento:
+
+A fin de mes el sistema procesa masivamente la planilla nacional (DB:SEP), mientras miles de docentes intentan consultar y descargar sus boletas de pago simultáneamente. El sistema debe garantizar tiempos de respuesta óptimos sin caídas ni degradación del servicio durante esos picos extremos de alta concurrencia.
+
+Trazabilidad (Seguridad / Auditoría):
+
+Al administrar ítems presupuestarios del Estado y fondos públicos, todo cambio de estado (asignaciones de ítems, compulsas, bajas o modificaciones salariales) debe registrar inalterablemente el usuario, fecha, hora y respaldo legal. Esto previene la asignación irregular de ítems y garantiza el cumplimiento normativo ante auditorías. 
