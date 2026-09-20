@@ -13,6 +13,7 @@ graph TD
 ---
 
 ## Diagrama 2
+
 ```mermaid
 
 graph TD
@@ -22,7 +23,7 @@ graph TD
 
     
     FE -->|Usa| SO[" Sistema Principal (Backend)"]
-    SO -->|Guarda datos| DB[(" Base de Datos de SISEP")]
+    SO -->|Guarda datos| DB[(" Base de Datos ")]
 
     
     SO --- Nota[" Fusion de Patrones:<br/>1. Strategy (Cálculos)<br/>2. Observer (Notificaciones)"]
